@@ -1,0 +1,6 @@
+prepare
+game
+done
+well
+Play cricket
+Hello
